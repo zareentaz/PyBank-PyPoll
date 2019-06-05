@@ -3,7 +3,7 @@ PyBank output
 
   In Terminal
   
-
+   ![Screenshot (10)](https://user-images.githubusercontent.com/49598347/58926753-db99e300-8711-11e9-8427-aa7104fd02ac.png)
   
   
   In output file
