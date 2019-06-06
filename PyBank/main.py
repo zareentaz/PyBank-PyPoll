@@ -11,7 +11,7 @@ with open(pybank, newline="", encoding="utf-8")as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     csvwriter = csv.writer(csvfile,delimiter=',')
     csv_header = next(csvfile)
-    print(f"Header: {csv_header}")
+    #print(f"Header: {csv_header}")
     for row in csvreader:
         totalmonths.append(row[0])
         #total+=int(row[1])
@@ -30,7 +30,7 @@ Min_month=average_change.index(min(average_change))+1
 
 print("Financial Analysis")
  
-
+# print the result in terminal and output.txt file
 print("-------------------------------------------------------")
 print("Total Months: " +str(len(totalmonths)))
 print(f"Total: ${sum(total)}")

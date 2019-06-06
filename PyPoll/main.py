@@ -8,7 +8,7 @@ election_result={}
 
 print("Election Results")
 print("-------------------------")
-file1=open("output.txt","w")
+file1=open("output_poll.txt","w")
 file1.write("Election Results")
 file1.write("\n" +"--------------------------" + "\n")
 # read number of rows including header
