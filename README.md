@@ -14,6 +14,18 @@ PyBank Output
 
 PyPoll Output
 
+In Terminal
+ 
+
+
+
+
+
+
+
+In Output
+![Screenshot (11)](https://user-images.githubusercontent.com/49598347/59006887-ca240a00-87e9-11e9-8b08-e8fb3e683ebd.png)
+
 
   
 
