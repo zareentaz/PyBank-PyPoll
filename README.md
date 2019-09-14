@@ -1,5 +1,19 @@
 # Python-Challenge
+
 PyBank Output
+
+Create a Python script that analyzes the records to calculate each of the following:
+
+  1.The total number of months included in the dataset
+
+  2.The net total amount of "Profit/Losses" over the entire period
+
+  3.The average of the changes in "Profit/Losses" over the entire period
+
+  4.The greatest increase in profits (date and amount) over the entire period
+
+  5.The greatest decrease in losses (date and amount) over the entire period
+  
 
   In Terminal
   
@@ -12,7 +26,21 @@ PyBank Output
 ![Screenshot (9)](https://user-images.githubusercontent.com/49598347/58926721-bf964180-8711-11e9-9bfe-f5a14799f94e.png)
 
 
+
+
 PyPoll Output
+
+Analyzes the votes and calculates each of the following:
+
+  1.The total number of votes cast
+
+  2.A complete list of candidates who received votes
+
+  3.The percentage of votes each candidate won
+
+  4.The total number of votes each candidate won
+
+  5.The winner of the election based on popular vote.
 
 In Terminal
 
