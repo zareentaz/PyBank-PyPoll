@@ -2,6 +2,8 @@
 
 PyBank Output
 
+In this challenge, We are tasked with creating a Python script for analyzing the financial records of our company. We have a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. 
+
 Create a Python script that analyzes the records to calculate each of the following:
 
   1.The total number of months included in the dataset
@@ -29,6 +31,8 @@ Create a Python script that analyzes the records to calculate each of the follow
 
 
 PyPoll Output
+
+In this challenge, we are tasked with helping a small, rural town modernize its vote-counting process. We have a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
 Analyzes the votes and calculates each of the following:
 
